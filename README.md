@@ -16,21 +16,21 @@ A minimal full-stack web application that implements Google Maps API for a docto
 - View distance from search location to each clinic
 
 
-## ENV
-# MongoDB Configuration
+### ENV
+## MongoDB Configuration
 MONGO_URI=mongodb+srv://mukulraj756:aoX3YeEkwaoZ15gm@cluster0.n9lluzb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
-# Server Configuration
+## Server Configuration
 PORT=3001
 NODE_ENV=development
 
-# Google Maps API Configuration
+## Google Maps API Configuration
 GOOGLE_MAPS_API_KEY=AlzaSy_I4Q4LMZ9W3_hRs8IT1S-DVYD5sgjijng
 
-# Database Configuration
+## Database Configuration
 DATABASE_NAME=doctor_patient_platform
 
-# CORS Configuration
+## CORS Configuration
 CORS_ORIGIN=http://localhost:5173
 
 ## Technology Stack
